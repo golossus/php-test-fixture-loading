@@ -1,0 +1,34 @@
+{
+    "name": "golossus/php-test-fixture-loading",
+    "description": "A package which provides an improved way of loading fixtures in tests",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "testing",
+        "loading",
+        "fixture"
+    ],
+    "authors": [
+        {"name": "Santiago Garcia Belmonte", "email": "sangarbe@gmail.com"},
+        {"name": "Jorge Brisa Ibañez", "email": "jorge.br.ib@gmail.com"}
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Golossus\\TestFixtureLoading\\": "lib"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Golossus\\TestFixtureLoading\\Tests\\": "tests"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
