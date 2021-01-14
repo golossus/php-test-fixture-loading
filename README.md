@@ -1,4 +1,5 @@
-[![Build Status](https://api.travis-ci.org/golossus/php-test-fixture-loading.svg?branch=main)](https://api.travis-ci.org/golossus/php-test-fixture-loading)
+[![Build Status](https://travis-ci.com/golossus/php-test-fixture-loading.svg?branch=main)](https://travis-ci.com/golossus/php-test-fixture-loading)
+[![codecov](https://codecov.io/gh/golossus/php-test-fixture-loading/branch/main/graph/badge.svg?token=8VWM3FM5SU)](https://codecov.io/gh/golossus/php-test-fixture-loading)
 
 <p align="center">
     <a href="https://www.golossus.com" target="_blank">
@@ -14,7 +15,7 @@ Installation
 ------------
 
 ```shell
-composer require golossus/php-test-fixture-loading
+composer require --dev golossus/php-test-fixture-loading 
 ```
 
 Usage
