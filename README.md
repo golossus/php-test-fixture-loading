@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.com/golossus/php-test-fixture-loading.svg?branch=main)](https://travis-ci.com/golossus/php-test-fixture-loading)
 [![codecov](https://codecov.io/gh/golossus/php-test-fixture-loading/branch/main/graph/badge.svg?token=8VWM3FM5SU)](https://codecov.io/gh/golossus/php-test-fixture-loading)
+[![Version](https://poser.pugx.org/golossus/php-test-fixture-loading/version)](//packagist.org/packages/golossus/php-test-fixture-loading)
+[![Total Downloads](https://poser.pugx.org/golossus/php-test-fixture-loading/downloads)](//packagist.org/packages/golossus/php-test-fixture-loading)
+[![License](https://poser.pugx.org/golossus/php-test-fixture-loading/license)](//packagist.org/packages/golossus/php-test-fixture-loading)
 
 <p align="center">
     <a href="https://www.golossus.com" target="_blank">
